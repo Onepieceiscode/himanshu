@@ -3,48 +3,57 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+  font-size: 1.125rem;
 }
 
 h1 {
   padding-top: 180px;
-  font-size: 60px;
+  font-size: 3.75rem;
   color: #676FA3;
-  margin: 0 0;
+  margin: 0 auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
 .p1{
   font-family: 'Fuzzy Bubbles', cursive;
-  font-size: 21px;
+  font-size: 1.5625rem;
   color: #676FA3;
 }
 h2 {
   font-family: 'Montserrat', sans-serif;
+  color:#676FA3;
+  font-size: 1.5625rem;
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
+  color:#676FA3;
+  font-size: 1.3125rem;
 }
-.profile1{
-  padding: 10px;
+.profile{
+  line-height: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+
+}
+.profileimg{
   margin-top: 10px;
-height:20vh;
-border-style: solid;
-border-radius: 20vh;
-border-width: thin;
-border-color: black;
+height:25vh;
 }
+
+
+
 .cloud1 {
   position: absolute;
   right: 16%;
   top: 8%;
-  height: 25vh;
+  height: 25%;
 }
 
 .cloud2 {
   position: absolute;
   left: 18%;
   top: 33%;
-  height: 25vh;
+  height: 25%;
 }
 
 .mountain {
