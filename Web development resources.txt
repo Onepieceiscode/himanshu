@@ -1,0 +1,14 @@
+colorhunt.co for hexa decimal codes of different colors
+codepen.io for html css javascript coding over web
+mdn for web development query
+w3schools     "
+devdocs.io    "
+web.archive.org what websites looked like with only html
+emojipedia for emojis
+fevicon.cc for designing fevicon (small icon shown on websites besides title)
+cssfontstack
+fonts.google.com
+www.flaticon.com
+giphy.com
+https://css3buttongenerator.com/
+https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3
